@@ -1,4 +1,6 @@
 map-editor/
+```
+ssp/
  ├── src/
  │   ├── components/
  │   │   ├── MapView.tsx
@@ -19,6 +21,7 @@ map-editor/
  ├── tsconfig.json
  ├── vite.config.ts
  └── README.md
+```
 
 # 🗺️ Web GIS Drawing Tool (React + TypeScript + Leaflet)
 
