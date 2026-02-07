@@ -1,6 +1,6 @@
 map-editor/
 ```
-ssp/
+map-editor
  ├── src/
  │   ├── components/
  │   │   ├── MapView.tsx
